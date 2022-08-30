@@ -1,1 +1,0 @@
-# LUCIANO_DELAMAZA_proyectoM2.py
